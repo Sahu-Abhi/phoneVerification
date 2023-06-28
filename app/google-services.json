@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789296394218",
+    "project_id": "phone-verification-a35a1",
+    "storage_bucket": "phone-verification-a35a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789296394218:android:9a72b129519707e23b0c93",
+        "android_client_info": {
+          "package_name": "com.example.liveasy_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789296394218-jcfsl488qls5s0i93qo4vli59d545kn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRSMWrRv5-rkAa9YLwoVrgolAN1tFGw2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789296394218-jcfsl488qls5s0i93qo4vli59d545kn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
